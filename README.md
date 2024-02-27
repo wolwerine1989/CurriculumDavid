@@ -9,7 +9,7 @@ A passionate backend developer from Ecuador
     🌱 Currently Learning: Ionic, Kotlin
     💬 Ask Me About: React, Spring
     🤝 Looking for Help With: Projects with microservices
-    📫 How to Reach Me: axeman1994@hotmail.es
+    📫 How to Reach Me: axxeman1994@gmail.com
 
     Skills:
     Languages: Java, JavaScript, HTML5, CSS3, PHP, Java
